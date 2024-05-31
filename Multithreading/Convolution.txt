@@ -1,0 +1,3 @@
+This text file is about the convolution project I am doing.
+What is convolution?
+I need two discreat signals in the form of array. They can be of arbitrary length

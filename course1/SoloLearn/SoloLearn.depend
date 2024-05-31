@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1579894964 source:e:\c++ projects\sololearn\main.cpp
+	<iostream>
+
+1579969800 source:e:\c++ projects\sololearn\argv.cpp
+	<iostream>
+
